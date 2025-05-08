@@ -18,14 +18,14 @@
 {
     .head{
         position: absolute;
-        margin-left: 720px;
+        margin-left: 520px;
         top: 100px;
         font-size: 40px;
     }
     
     .tenure{
         position: absolute;
-        margin-left: 730px;
+        margin-left: 530px;
         top: 300px;
         font-size: 25px;
     }
@@ -34,20 +34,20 @@
         position: absolute;
         width: 220px;
         height: 20px;
-        margin-left: 730px;
+        margin-left: 530px;
         top: 360px;
     }
     
     .contract{
         position: absolute;
-        margin-left: 350px;
+        margin-left: 150px;
         font-size: 25px;
         top: 300px;
     }
     
     .div1{
         position: absolute;
-        margin-left: 250px;
+        margin-left: 50px;
         top: 360px;
     }
     
@@ -58,27 +58,27 @@
     
     .div2{
         position: absolute;
-        margin-left: 1130px;
+        margin-left: 930px;
         top: 360px;
     }
     
     .internet{
         position: absolute;
-        margin-left: 1140px;
+        margin-left: 940px;
         font-size: 25px;
         top: 300px;
     }
     
     .charges{
         position: absolute;
-        margin-left: 370px;
+        margin-left: 170px;
         top: 500px;
         font-size: 25px;
     }
     
     .chargesinput{
         position: absolute;
-        margin-left: 370px;
+        margin-left: 170px;
         top: 560px;
         width: 200px;
         height: 20px;
@@ -86,20 +86,20 @@
     
     .payment{
         position: absolute;
-        margin-left: 890px;
+        margin-left: 690px;
         top: 500px;
         font-size: 25px;
     }
     
     .div3{
         position: absolute;
-        margin-left: 650px;
+        margin-left: 450px;
         top: 560px;
     }
     
     .input{
         position: absolute;
-        margin-left: 780px;
+        margin-left: 580px;
         top: 650px;
         width: 140px;
         height: 35px;
@@ -108,7 +108,7 @@
     
     .output{
         position: absolute;
-        margin-left: 770px;
+        margin-left: 570px;
         top: 710px;
         border: 2px solid black;
         width: 160px;
